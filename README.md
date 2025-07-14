@@ -2,7 +2,7 @@
 Fine-Tuning, Modeling 등 LLM 모델을 다루고 학습하는 공간입니다
 
 ### Fine-Tuning
-- gemma-2b-it 모델 미세 튜닝 실습(음식주문 시스템)
+- Llama2 / gemma-2b-it 모델 미세 튜닝 실습(음식주문 시스템)
 
 ### Modeling
 - roberta-small 모델을 통한 네이버 영화 리뷰 감성 분류
